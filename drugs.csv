@@ -1,0 +1,11 @@
+name,type,molecular_weight,solubility,toxicity,activity,exportedtocountries
+Aspirin,NSAID,180,0.8,0.1,0.75,china;india;japan;moroco;pakistan;italy;malasia;chilli
+Ibuprofen,NSAID,206,0.6,0.2,0.7,azbekistan;malasia;chilli;czechia;china;india
+Metformin,Cardiovascular & Metabolic,129,0.9,0.05,0.85,indonesia;malasia;cyprus;nicaragua'china;italy;moroco
+Penicillin,anti-infectives,334,0.7,0.1,0.9,moroco;maldives;kenya;estonia;malasia;india;USA;chilli;china
+Imatinib,Oncology & Immunology,493,0.4,0.3,0.95,USA;germany;denmark;estonia;canada;china;italy;malasia;moroco
+Warfarin,Cardiovascular & Metabolic,308,0.5,0.4,0.65,finland;india;malta;malasia;chilli;newzealand;japan;italy
+Oseltamivir,anti-infectives,312,0.8,0.1,0.8,montengro;malasia;australia;USA;indonesia;italy
+Remdesivir,anti-infectives,602,0.3,0.25,0.88,india;china;japan;chilli;china;china;USA;italy;malasia;chilli
+Methotrexate,Oncology & Immunology,454,0.6,0.5,0.72,USA;italy;india;china;malasia;iran;italy;chilli
+Chloroquine,anti-infectives,320,0.7,0.35,0.6d,germany;malasia;italy;pakistan;USA;chilli;iran;chilli;japan
